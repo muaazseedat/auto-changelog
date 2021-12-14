@@ -5,6 +5,10 @@
   "repository": "https://github.com/muaazseedat/auto-changelog.git",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.3.2"
   }
 }
