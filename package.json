@@ -1,0 +1,10 @@
+{
+  "name": "auto-changelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/muaazseedat/auto-changelog.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
