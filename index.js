@@ -1,1 +1,1 @@
-console.log('Goodbye Internet!')
+console.log('Goodbye Internet')
